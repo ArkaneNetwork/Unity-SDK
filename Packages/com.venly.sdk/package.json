@@ -1,0 +1,11 @@
+{
+    "name": "com.venly.sdk",
+    "version": "1.0.8",
+    "displayName": "Venly SDK",
+    "description": "Minimal Venly SDK placeholder to resolve Unity dependency.",
+    "unity": "2020.3",
+    "author": {
+      "name": "ArkaneNetwork"
+    }
+  }
+  
